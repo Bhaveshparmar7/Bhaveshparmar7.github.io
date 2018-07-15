@@ -1,0 +1,53 @@
+body
+{
+	font-family: Comic Sans MS;
+	background:linear-gradient(to left,grey,white);
+	
+}
+div
+{
+	font-size: 1.5em;
+}
+input
+{
+	border-radius: 3em;
+	font-size: 30px;
+
+
+}
+header
+{
+	text-align: center;
+	background: black;
+	color:white;
+	font-size:7em;
+	margin-bottom: 10px;
+}
+h1
+{
+  text-align: center;
+  
+}
+button
+{
+	font-size: 2em;
+	border-radius: 3em;
+    background: grey;
+    color: white;
+    transition-property: all;
+    margin-bottom: 10px;
+
+}
+button:hover
+{
+	transform:scale(1.1);
+}
+footer
+{
+	text-align: center;
+	color:white;
+	border: 3px solid grey;
+	font-size:2em;
+	background: black;
+	margin-bottom: 10px;
+}
